@@ -1,6 +1,6 @@
 # wordle-recreation
 
-Probably doesn't work, uploaded directly from Replit
+Probably doesn't work anymore, uploaded directly from Replit
 
 View the Repl here: https://replit.com/@HalfCount/wordle-recreation?v=1
 
